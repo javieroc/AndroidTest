@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SafeTap</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="hint_username">Your Username</string>
+    <string name="hint_password">Your Password</string>
+    <string name="login_button">Login</string>
+    <string name="subscribe">Subscribe to news</string>
+    <string name="token">Get token</string>
+    <string name="msg_subscribed">Subscribed to news topic</string>
+    <string name="msg_token_fmt" translatable="false">InstanceID Token: %s</string>
+    <string name="enable_location_settings">Location settings error</string>
+</resources>

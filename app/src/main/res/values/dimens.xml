@@ -1,0 +1,5 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="login_text_size">22sp</dimen>
+    <dimen name="login_padding">26sp</dimen>
+</resources>

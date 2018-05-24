@@ -3,6 +3,7 @@
     <string name="title_activity_main">MainActivity</string>
     <string name="hint_username">Your Username</string>
     <string name="hint_password">Your Password</string>
+    <string name="hint_phone">Your Phone number</string>
     <string name="login_button">Login</string>
     <string name="subscribe">Subscribe to news</string>
     <string name="token">Get token</string>
